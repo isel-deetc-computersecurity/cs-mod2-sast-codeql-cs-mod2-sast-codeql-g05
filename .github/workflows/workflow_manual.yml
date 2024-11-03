@@ -2,8 +2,7 @@
 name: Work Flow Manual with CodeQL scan
 
 on:
-  push:
-  pull_request:
+  workflow_dispatch:
 
 jobs:
   analyze:
