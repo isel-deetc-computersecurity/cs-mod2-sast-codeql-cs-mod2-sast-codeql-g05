@@ -1,4 +1,0 @@
-name: Work Flow Manual
-
-on:
-  workflow_dispatch:
